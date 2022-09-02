@@ -8,7 +8,7 @@
 <div align="center">
     <a href="mailto:charlotte.m65012@gmail.com" target="_blank">
         <img src="./mail.png" width="10%"/>
-
+    </a>
     <a href="https://www.instagram.com/jiayin._.m/" target="_blank">
         <img src="./instagram.png" width="10%"/>
     </a>
