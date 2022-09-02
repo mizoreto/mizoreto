@@ -21,5 +21,5 @@
     
 </div>
 
-<h2> :triangular_flag_on_post: My Stats </h2>
+## :triangular_flag_on_post: My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizoreto&theme=solarized-light&show_icons=true)
