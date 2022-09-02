@@ -1,6 +1,6 @@
-<h1> 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒👋 </h1>
-
 <img src="./profile_picture.jfif" align="left" height="250px" />
+
+<h1> 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒👋 </h1>
 * I'm Jiayin Meng, a junior majoring in CS with a Physics minor @ UIUC 24'
 * Pronouns: She/Her/Hers
 
