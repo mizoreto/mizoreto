@@ -21,5 +21,5 @@
     
 </div>
 
-## My Stat
+## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizoreto&theme=solarized-light&show_icons=true)
