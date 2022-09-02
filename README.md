@@ -4,8 +4,7 @@
 * Pronouns: She/Her/Hers
 
 
-<h2>📫 Reach me @</h2>
-<hr>
+## Contact
 <div align="center">
     <a href="mailto:charlotte.m65012@gmail.com" target="_blank">
         <img src="./icons/mail.png" width="10%"/>
