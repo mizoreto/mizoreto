@@ -5,7 +5,7 @@
 <p> 👩‍🎓 Pronouns: She/Her/Hers </p>
 
 
-<h2> :phone: Contact </h2>
+## :phone: Contact
 <div>
     <a href="mailto:charlotte.m65012@gmail.com" target="_blank">
         <img src="./mail.png" width="8%"/>
