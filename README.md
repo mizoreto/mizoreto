@@ -7,7 +7,7 @@
 ## Contact
 <div align="center">
     <a href="mailto:charlotte.m65012@gmail.com" target="_blank">
-        <img src="./icons/mail.png" width="10%"/>
+        <img src="./mail.png" width="10%"/>
     </a>
     
 </div>
