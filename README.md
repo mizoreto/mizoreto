@@ -10,7 +10,7 @@
         <img src="./mail.png" width="10%"/>
     </a>
     <a href="https://www.linkedin.com/in/jiayin-meng2002/" target="_blank">
-        <img src="./icons/linkedin.png" width="10%"/>
+        <img src="./linkedin.png" width="10%"/>
     </a>
     
 </div>
