@@ -10,9 +10,11 @@
     <a href="mailto:charlotte.m65012@gmail.com" target="_blank">
         <img src="./mail.png" width="8%"/>
     </a>
+    <img width="8%" />
     <a href="https://www.linkedin.com/in/jiayin-meng2002/" target="_blank">
         <img src="./linkedin.png" width="8%"/>
     </a>
+    <img width="8%" />
     <a href="https://www.instagram.com/jiayin._.m/" target="_blank">
         <img src="./instagram.png" width="8%"/>
     </a>
