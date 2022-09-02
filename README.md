@@ -7,11 +7,11 @@
 ## Contact
 <div align="center">
     <a href="mailto:charlotte.m65012@gmail.com" target="_blank">
-        <img src="./mail.png" width="20%"/>
+        <img src="./mail.png" width="5%"/>
     </a>
     <img width="10%" />
     <a href="https://www.linkedin.com/in/jiayin-meng2002/" target="_blank">
-        <img src="./linkedin.png" width="20%"/>
+        <img src="./linkedin.png" width="5%"/>
     </a>
     
 </div>
